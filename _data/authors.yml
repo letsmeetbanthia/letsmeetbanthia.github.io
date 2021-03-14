@@ -1,0 +1,20 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Shubham Sanghavi:
+  name: Shubham Sanghavi
+  picture: /images/Capture_01.PNG
+  twitter: tradest3
+  links:
+    - title: Twitter
+      url: https://twitter.com/tradest3
+      icon: fab fa-twitter-square
+
+Rizu Jain:
+  name: Rizu Jain
+  picture: 
+  twitter: 
+  links:
+    - title: 
+      url: 
+      icon: fab fa-twitter-square
